@@ -1,0 +1,3 @@
+ chk(){
+        cout<<"HEllo"<<endl;
+    }
